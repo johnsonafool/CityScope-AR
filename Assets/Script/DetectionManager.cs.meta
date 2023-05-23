@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fefa33b9364e4109875efb915a5977f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _source: {instanceID: 0}
+  - _tagMaterial: {fileID: 2100000, guid: 5828f113fb726f64eab08340333edd86, type: 2}
+  - _webcamPreview: {instanceID: 0}
+  - _debugText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

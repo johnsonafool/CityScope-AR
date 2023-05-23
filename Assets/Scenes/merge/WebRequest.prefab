@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3237243687626359805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3237243687626359807}
+  - component: {fileID: 3237243687626359553}
+  - component: {fileID: 3237243687626359804}
+  - component: {fileID: 3237243686524689195}
+  m_Layer: 0
+  m_Name: WebRequest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3237243687626359807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3237243687626359805}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.046536088, y: -2.377022, z: 0.105944514}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3237243687626359553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3237243687626359805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b0cc9a17deda034a881af08f46dde59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mode: 1
+  huv: {fileID: 0}
+  temp: {fileID: 0}
+  rain: {fileID: 0}
+  weather: {fileID: 0}
+  catalogValue: huv
+  visualObjs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  locations:
+  - "\u65B0\u5317"
+  - "\u81FA\u5317"
+  - "\u6843\u5712"
+  - "\u81FA\u4E2D"
+  - "\u81FA\u5357"
+  - "\u9AD8\u96C4"
+  _EPAWebRequest: {fileID: 3237243687626359804}
+  _CWBWebRequest: {fileID: 3168921432210633050, guid: 1ac2fd2adbcb847f892c6989a8d92a3c, type: 3}
+  PM25Mat: {fileID: 0}
+  HUVMat: {fileID: 2100000, guid: a9dd81a7817402f43a2bd1b4410036cf, type: 2}
+  TEMPMat: {fileID: 2100000, guid: 0e81c91c3c10ab4488bc39f50482f6ca, type: 2}
+  locationIndex: 0
+--- !u!114 &3237243687626359804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3237243687626359805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d379857a5ce734408fd8d427937ce8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EPASever: https://data.epa.gov.tw/api/v2/aqx_p_02?api_key=413ea022-b1ab-44b9-b8f6-e00114f1e5ce
+  PM25Prefab: {fileID: 3344055506569973931, guid: c2056919793dc4e40b9a9781c339ca26, type: 3}
+  pm25Value: 0
+--- !u!114 &3237243686524689195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3237243687626359805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea3fb8259f58746a5982329f8fa8a74f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataSever: {fileID: 3237243687626359553}
+  CWBSever: https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0003-001?Authorization=CWB-F9C5DDDC-60E9-407E-B899-E3362E6752EF
+  weatherValue: 
+  huvValue: 0
+  tempValue: 0
+  rainValue: 0
+  NightRain:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DayRain:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  NigntCloud:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DayCloud:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  NightSunny:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DaySunny:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Pins:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: e80b05d6b1b945e42b6f82baa66523f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1533
+        width: 340
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd435b0b167b14d8b8bf1d85129711
+      internalID: -1458202607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1533
+        width: 472
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef670689fcde14ca6bb716e97d6ebb
+      internalID: 1108229825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_2
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1477
+        width: 431
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822434f96a06ed245b65b451e35de6d3
+      internalID: 520005049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 854
+        width: 462
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992098cb615ef74429d71dc11bc7976c
+      internalID: 1523837136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 850
+        width: 413
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989efc501f025344930e51a84b23197
+      internalID: -289105007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_5
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 802
+        width: 549
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7779f299a1f126469d9ea767c45d0f8
+      internalID: 217671894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45f36c9e3c908e4497a9f328fd8a32d
+      internalID: 1825878510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 962
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9aebf07e3d8604ab82b120222eed3f
+      internalID: 1110167368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 962
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75559e1940de64aa7b78a0be3fc42b
+      internalID: -1435454669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_9
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 962
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f78042a12b0f644af4b90aebd95703
+      internalID: -234627309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_10
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 957
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66829cd393018434aa1176c28f53aa3a
+      internalID: 565806197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_11
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 957
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6556197afe35bf4b8ee8b1a6b36fcc9
+      internalID: -914109670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 869
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cb20280dd8cd4285b7c7a975bd03f
+      internalID: -893150630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 912
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269cfaad1e48b944b1f6c987bae9fdd
+      internalID: 2005539929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_14
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 869
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3301b878a23bd43837b10712b0800f
+      internalID: -1716409168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_15
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 912
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92b546e68d1ed4a8a00be9a70e3ad1
+      internalID: -2105312163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_16
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 912
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f600886a73e649ac45e6ca90e06a5
+      internalID: 1503451630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_17
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 912
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767926c8cfd31564883e0f95979e9938
+      internalID: 1077304462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_18
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 906
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793bb6ab56be6b43805fd123c33382c
+      internalID: -1908809520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 852
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb7ac5f9657ad47acf1b57a795c5bc
+      internalID: 512915922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 852
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90298c9f7e3dfe44f842a8b1b3fe4c52
+      internalID: 1732314266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_21
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 819
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7745486bb7cd64242b9b2d5ae4c7d9a7
+      internalID: 311914196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_22
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 862
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892e8eb2b2d8f342b7b5a51ccf456dd
+      internalID: 1185976962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_23
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 864
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66174865d39bd24aae0af0b4cee866c
+      internalID: 304712192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_24
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 846
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b93819f92be245b4a053cc6c02eed
+      internalID: -1904941289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 802
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b69d34bcdb474fa0c1db1099208ac
+      internalID: -210912733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 693
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe61f38384f7aa4a9a4844c101bc53b
+      internalID: 159373709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 343
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9cdd8b89d4bc24ba3c15e2d6e0441c
+      internalID: -856385945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_28
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 480
+        width: 479
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be204cae9dffe3b46be8ca0941b071fe
+      internalID: -2140289796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_29
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 357
+        width: 439
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b01bae41e3cbd4aa38a92abd2ab896
+      internalID: 1288772130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_30
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 588
+        width: 246
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea958ee56fb35cf4b9aaa2cea9dd7f3b
+      internalID: -683341083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 511
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b804bd498c900468fad97d8486afbb
+      internalID: -229751311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_32
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 464
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea2faf2aad62449977c3cefc0b6efa
+      internalID: -1941235126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 223
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d2eb0b97aaae438d8e0601eaa62c5
+      internalID: -1204690328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 259
+        width: 246
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc481f7bddab2b949bee7e41e5e58874
+      internalID: 2110813562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_35
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 215
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c67f5d78965fa4b8ea095047c108ef
+      internalID: 373345537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 215
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36b005dcde60040ad1d800485eae5a
+      internalID: -886016063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_37
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 269
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87603b61843f2a74c84991219790c5ec
+      internalID: 606526869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_38
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 94
+        width: 367
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b92ede551379c4ebc4bd5ab587beb8
+      internalID: 1264567686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 24
+        width: 430
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d875dbd984aaa4c874f06d21482350
+      internalID: -1269371626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_40
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 204
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8e0f3847f9e74da1f5f8da65599ed
+      internalID: -1994973111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_41
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 216
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af28934fe7176dd46a8d7f00263731c0
+      internalID: 122687696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_42
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 215
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf6dcfadac99d41b1cd8827902d529
+      internalID: -635019390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_43
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 215
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6335623de18d042ba29134293d1cac
+      internalID: 2137378115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_44
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 216
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d613c5dd8447b47bcd2b29d498ef5a
+      internalID: 63834189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_45
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 215
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f315728209a25f4d9dd493a57b0464f
+      internalID: -1427420453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 137
+        width: 367
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc54eef3edde2b14d8aef824999e1f12
+      internalID: 210143383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weather-3d-icon-free-png_47
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 35
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646f60ac15fe3e41a4ecfb055492002
+      internalID: -233546660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e47c415b538f354aa7ff89a3b4be717
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      weather-3d-icon-free-png_45: -1427420453
+      weather-3d-icon-free-png_26: 159373709
+      weather-3d-icon-free-png_25: -210912733
+      weather-3d-icon-free-png_17: 1077304462
+      weather-3d-icon-free-png_39: -1269371626
+      weather-3d-icon-free-png_0: -1458202607
+      weather-3d-icon-free-png_34: 2110813562
+      weather-3d-icon-free-png_40: -1994973111
+      weather-3d-icon-free-png_1: 1108229825
+      weather-3d-icon-free-png_27: -856385945
+      weather-3d-icon-free-png_6: 1825878510
+      weather-3d-icon-free-png_41: 122687696
+      weather-3d-icon-free-png_28: -2140289796
+      weather-3d-icon-free-png_13: 2005539929
+      weather-3d-icon-free-png_14: -1716409168
+      weather-3d-icon-free-png_21: 311914196
+      weather-3d-icon-free-png_9: -234627309
+      weather-3d-icon-free-png_47: -233546660
+      weather-3d-icon-free-png_12: -893150630
+      weather-3d-icon-free-png_42: -635019390
+      weather-3d-icon-free-png_31: -229751311
+      weather-3d-icon-free-png_30: -683341083
+      weather-3d-icon-free-png_43: 2137378115
+      weather-3d-icon-free-png_10: 565806197
+      weather-3d-icon-free-png_38: 1264567686
+      weather-3d-icon-free-png_46: 210143383
+      weather-3d-icon-free-png_32: -1941235126
+      weather-3d-icon-free-png_20: 1732314266
+      weather-3d-icon-free-png_37: 606526869
+      weather-3d-icon-free-png_24: -1904941289
+      weather-3d-icon-free-png_4: -289105007
+      weather-3d-icon-free-png_22: 1185976962
+      weather-3d-icon-free-png_5: 217671894
+      weather-3d-icon-free-png_23: 304712192
+      weather-3d-icon-free-png_3: 1523837136
+      weather-3d-icon-free-png_16: 1503451630
+      weather-3d-icon-free-png_15: -2105312163
+      weather-3d-icon-free-png_33: -1204690328
+      weather-3d-icon-free-png_2: 520005049
+      weather-3d-icon-free-png_36: -886016063
+      weather-3d-icon-free-png_7: 1110167368
+      weather-3d-icon-free-png_18: -1908809520
+      weather-3d-icon-free-png_8: -1435454669
+      weather-3d-icon-free-png_35: 373345537
+      weather-3d-icon-free-png_19: 512915922
+      weather-3d-icon-free-png_44: 63834189
+      weather-3d-icon-free-png_11: -914109670
+      weather-3d-icon-free-png_29: 1288772130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
